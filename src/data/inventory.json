@@ -1,0 +1,47 @@
+[
+    {   
+        "id": 1,
+        "title": "A Snowy Day in Oakland",
+        "imgUrl": "https://th.bing.com/th/id/R.f75e123a73c5bc6735ff7132307e0fd9?rik=x3olcytJkUg0PQ&pid=ImgRaw&r=0",
+        "copiesAvailable": {
+            "current": 0,
+            "total": 4
+        },
+        "rating": "PG-13",
+        "description": "It snows"
+    },
+
+    {   
+        "id": 2,
+        "title": "Shazam: Fury of the Gods",
+        "imgUrl": "https://th.bing.com/th/id/R.6bbe505af21b5a7d7c6bdac81bb69cc5?rik=CSCyqd0L4QN3IA&pid=ImgRaw&r=0",
+        "copiesAvailable": {
+            "current": 4,
+            "total": 10     
+        },
+        "rating": "NC-17",
+        "description": "Shazam fury"
+    },
+    {   
+        "id": 3,
+        "title": "65",
+        "imgUrl": "https://th.bing.com/th/id/OIP.nISFxQJn5iYEhsXErDJm-QHaHa?rs=1&pid=ImgDetMain",
+        "copiesAvailable": {
+            "current": 2,
+            "total": 6
+        },
+        "rating": "NC-17",
+        "description": "Movie three"
+    },
+    {
+        "id": 4,
+        "title": "Creed III",
+        "imgUrl": "https://i5.walmartimages.com/seo/Creed-III-2023-Blu-ray-DVD-Digital-Copy_287d0eb2-e10b-45ec-b040-9eb1baa2fe70.3b41e696fbf0fa4c07c816291b18f08d.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+        "copiesAvailable": {
+            "current": 101,
+            "total": 200
+        },
+        "rating":"PG-13",
+        "description": "Movie four"
+    }
+]

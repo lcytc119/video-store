@@ -1,0 +1,20 @@
+.resize-image{
+  width: 150px;
+  height: auto;
+}
+
+.inventory-container {
+  border: 3px solid black;
+  padding: 15px;
+}
+
+.inventory-list {
+  display: flex;
+  flex-direction: row;
+  gap: 5%;
+}
+
+.inventory-item{
+  display: flex;
+  flex-direction: column
+}
